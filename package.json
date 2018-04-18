@@ -1,0 +1,12 @@
+{
+  "name": "twitterbot",
+  "version": "0.0.0",
+  "description": "twitterbot",
+  "main": "app.js",
+  "author": {
+    "name": "cripe"
+  },
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
